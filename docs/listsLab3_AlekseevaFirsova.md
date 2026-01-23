@@ -36,3 +36,12 @@ git remote add origin <url>
 git push -u origin main
 ```
 
+[GitHub] (https://github.com/valeriyalexeeva15-lgtm/Lab3_MarkdownLaTeX_AlekseevaFirsova-.git)
+
+[Markdown] (https://www.markdownguide.org/"Перейти на официальный сайт")
+
+![Скриншот задания] (/img/commitStructureLab3_FirsovaAlekseeva.png)
+
+
+
+

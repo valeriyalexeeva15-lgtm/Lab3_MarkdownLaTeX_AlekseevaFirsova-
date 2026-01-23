@@ -6,5 +6,5 @@
 
 ![Скриншот задания] (/img/commitStructureLab3_FirsovaAlekseeva.png)
 
-![Скриншот задания] (img/gitPushLab3_FirsovaAlekseeva.PNG)
+![Скриншот задания](img/gitPushLab3_FirsovaAlekseeva.PNG)
 
